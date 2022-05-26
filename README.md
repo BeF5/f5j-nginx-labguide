@@ -81,18 +81,18 @@ Cloud Docsの書式で、すでにUDF template内のLab Guideから参照でき�
 
 ## NGINX Plus Kubernets Ingress Controller 
 
-参考：https://thinkit.co.jp/article/18771
-
 |項目||
 | - | - | 
 |主な内容|NGINX Ingress Controllerのデプロイ、VS/VSR、OIDC、NGINX App Protect|
 |Guide| https://f5j-nginx-ingress-controller-lab1.readthedocs.io/en/v2.1.0-r3/ |
 |UDF Template| NGINX: Kubernetes_Lab_JP |
 
+その他参考情報：https://thinkit.co.jp/article/18771
+
 ## NGINX Plus Service Mesh `作成予定`
 
 |項目||
 | - | - | 
 |主な内容|基本的なサービスメッシュのデプロイ方法、その他設定方法|
-|Guide| - |
-|UDF Template| - |
+|Guide|https://f5j-nginx-service-mesh.readthedocs.io/en/latest/index.html|
+|UDF Template| NGINX: Kubernetes_Lab_JP |
