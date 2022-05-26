@@ -41,10 +41,10 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 |項目||
 | - | - | 
 |主な内容|NGINX App Protect WAF |
-|Guide| [-](https://f5j-nginx-plus-lab2-security.readthedocs.io/en/latest/) |
+|Guide| https://f5j-nginx-plus-lab2-security.readthedocs.io/en/latest/ |
 |UDF Template| PartnerTraining_2021_BASIC_JP  |
 - 今後 NAP DoS、Rate Limit、OIDC など追加します
-- 
+
 ## NGINX Plus Container 基礎
  
 |項目||
