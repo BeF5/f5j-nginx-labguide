@@ -6,13 +6,13 @@ nginx_lab_guide
 - [Trial license 取得方法](#trial-license-取得方法)
 - [ラボガイド](#ラボガイド)
   - [これから始めるNGINX技術解説 基本編](#これから始めるnginx技術解説-基本編)
-  - [これから始めるNGINX技術解説 セキュリティ編 `作成予定`](#これから始めるnginx技術解説-セキュリティ編-作成予定)
+  - [これから始めるNGINX技術解説 セキュリティ編 `NAP WAFのみ`](#これから始めるnginx技術解説-セキュリティ編-nap-wafのみ)
   - [NGINX Plus Container 基礎](#nginx-plus-container-基礎)
   - [NGINX Plus Container NGINX App Protect](#nginx-plus-container-nginx-app-protect)
   - [NGINX Plus Container NGINX App Protect & AWAF](#nginx-plus-container-nginx-app-protect--awaf)
   - [NGINX Controller Application Security (ADC / AppSec)](#nginx-controller-application-security-adc--appsec)
   - [NGINX Plus Kubernets Ingress Controller](#nginx-plus-kubernets-ingress-controller)
-  - [NGINX Plus Service Mesh `作成予定`](#nginx-plus-service-mesh-作成予定)
+  - [NGINX Plus Service Mesh](#nginx-plus-service-mesh)
 
 # 目的
 - こちらのページではNGINX Productの各種ラボガイドの情報をまとめております
@@ -36,14 +36,15 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 |Guide| https://f5j-nginx-plus-lab1.readthedocs.io/en/latest/index.html |
 |UDF Template| PartnerTraining_2021_BASIC_JP  |
 
-## これから始めるNGINX技術解説 セキュリティ編 `作成予定`
+## これから始めるNGINX技術解説 セキュリティ編 `NAP WAFのみ`
 
 |項目||
 | - | - | 
-|主な内容|Rate Limit、OIDC、NGINX App Protect WAF / DoS|
-|Guide| - |
+|主な内容|NGINX App Protect WAF |
+|Guide| [-](https://f5j-nginx-plus-lab2-security.readthedocs.io/en/latest/) |
 |UDF Template| PartnerTraining_2021_BASIC_JP  |
-
+- 今後 NAP DoS、Rate Limit、OIDC など追加します
+- 
 ## NGINX Plus Container 基礎
  
 |項目||
@@ -89,7 +90,7 @@ Cloud Docsの書式で、すでにUDF template内のLab Guideから参照でき�
 
 その他参考情報：https://thinkit.co.jp/article/18771
 
-## NGINX Plus Service Mesh `作成予定`
+## NGINX Plus Service Mesh 
 
 |項目||
 | - | - | 
