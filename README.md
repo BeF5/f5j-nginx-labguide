@@ -13,6 +13,7 @@ nginx_lab_guide
   - [NGINX Controller Application Security (ADC / AppSec)](#nginx-controller-application-security-adc--appsec)
   - [NGINX Plus Kubernets Ingress Controller](#nginx-plus-kubernets-ingress-controller)
   - [NGINX Plus Service Mesh](#nginx-plus-service-mesh)
+  - [NGINX Kubernetes Observability](#nginx-kubernetes-observability)
 
 # 目的
 - こちらのページではNGINX Productの各種ラボガイドの情報をまとめております
@@ -96,4 +97,12 @@ Cloud Docsの書式で、すでにUDF template内のLab Guideから参照でき�
 | - | - | 
 |主な内容|基本的なサービスメッシュのデプロイ方法、その他設定方法|
 |Guide|https://f5j-nginx-service-mesh.readthedocs.io/en/latest/index.html|
+|UDF Template| NGINX: Kubernetes_Lab_JP |
+
+## NGINX Kubernetes Observability  
+
+|項目||
+| - | - | 
+|主な内容|NGINX Plus Ingress Controller + NGINX Service Mesh をデプロイした環境でGrafana、Prometheus、Grafana Loki、Jaegerを使ってステータスを確認する方法のまとめ、HELMの使い方の習得|
+|Guide|https://f5j-nginx-k8s-observability.readthedocs.io/en/latest/index.html|
 |UDF Template| NGINX: Kubernetes_Lab_JP |
