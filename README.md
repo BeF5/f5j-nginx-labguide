@@ -1,4 +1,4 @@
-d nginx_lab_guide
+nginx_lab_guide
 # 目次
 - [目次](#目次)
 - [目的](#目的)
