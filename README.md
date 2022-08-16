@@ -10,7 +10,6 @@ d nginx_lab_guide
   - [NGINX Plus Container 基礎](#nginx-plus-container-基礎)
   - [NGINX Plus Container NGINX App Protect](#nginx-plus-container-nginx-app-protect)
   - [NGINX Plus Container NGINX App Protect & AWAF](#nginx-plus-container-nginx-app-protect--awaf)
-  - [NGINX Controller Application Security (ADC / AppSec)](#nginx-controller-application-security-adc--appsec)
   - [NGINX Plus Kubernets Ingress Controller](#nginx-plus-kubernets-ingress-controller)
   - [NGINX Plus Service Mesh](#nginx-plus-service-mesh)
   - [NGINX Kubernetes Observability](#nginx-kubernetes-observability)
@@ -69,17 +68,6 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 |主な内容|NGINX App Protect動作確認、NGINX App Protect Signatureの更新、AWAFのPolicyのコンバート|
 |Guide| https://github.com/hiropo20/partner_nap_workshop/tree/main/no4 |
 |UDF Template| PartnerTraining_2021_Microservices_nap_JP  |
-
-## NGINX Controller Application Security (ADC / AppSec)
-
-Cloud Docsの書式で、すでにUDF template内のLab Guideから参照できるよう変更済み
-
-|項目||
-| - | - | 
-|主な内容|NGINX Controller ADCの基本、各種設定オブジェクトの解説、ADC設定、WAF設定、および各種モニター機能の確認|
-|Guide| https://f5j-nginx-controller-lab.readthedocs.io/en/latest/index.html |
-|UDF Template| NGINX Controller: Application Delivery and Security (Lab)_JP  |
-
 
 ## NGINX Plus Kubernets Ingress Controller 
 
