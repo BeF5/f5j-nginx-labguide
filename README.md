@@ -10,6 +10,7 @@ nginx_lab_guide
   - [NGINX Plus Container 基礎](#nginx-plus-container-基礎)
   - [NGINX Plus Container NGINX App Protect](#nginx-plus-container-nginx-app-protect)
   - [NGINX Plus Container NGINX App Protect & AWAF](#nginx-plus-container-nginx-app-protect--awaf)
+  - [NGINX Plus Ansible](#nginx-plus-ansible)
   - [NGINX Plus Kubernets Ingress Controller](#nginx-plus-kubernets-ingress-controller)
   - [NGINX Plus Service Mesh](#nginx-plus-service-mesh)
   - [NGINX Kubernetes Observability](#nginx-kubernetes-observability)
@@ -68,6 +69,14 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 |主な内容|NGINX App Protect動作確認、NGINX App Protect Signatureの更新、AWAFのPolicyのコンバート|
 |Guide| https://github.com/hiropo20/partner_nap_workshop/tree/main/no4 |
 |UDF Template| PartnerTraining_2021_Microservices_nap_JP  |
+
+## NGINX Plus Ansible
+ 
+|項目||
+| - | - | 
+|主な内容|Ansibleを利用してNGINX Plus/NAP WAF/NAP Dosのインストール・アンインストール、インストール時の設定追加|
+|Guide| https://f5j-nginx-ansible.readthedocs.io/ |
+|UDF Template| PartnerTraining_2021_BASIC_JP  |
 
 ## NGINX Plus Kubernets Ingress Controller 
 
