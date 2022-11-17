@@ -56,7 +56,6 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 |UDF Template| PartnerTraining_2021_BASIC_JP  |
 - 今後 NAP DoS追加します
 
-
 ## NGINX Plus Ansible
  
 |項目||
@@ -64,6 +63,14 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 |主な内容|Ansibleを利用してNGINX Plus/NAP WAF/NAP Dosのインストール・アンインストール、インストール時の設定追加|
 |Guide| https://f5j-nginx-ansible.readthedocs.io/ |
 |UDF Template| PartnerTraining_2021_BASIC_JP  |
+
+## NGINX Plus Performance
+ 
+|項目||
+| - | - | 
+|主な内容|パフォーマンステストによる NGINX Plus/NGINX Unit/Apacheの比較、NGINX Plusのパフォーマンスチューニング|
+|Guide| https://f5j-nginx-performance.readthedocs.io/ |
+|UDF Template| NGINX: Performance_Lab_JP  |
 
 ## NGINX Plus Kubernets Ingress Controller 
 
