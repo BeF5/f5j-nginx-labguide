@@ -9,6 +9,7 @@ nginx_lab_guide
   - [NGINX技術解説 応用編](#nginx技術解説-応用編)
   - [これから始めるNGINX技術解説 セキュリティ編 `NAP WAFのみ`](#これから始めるnginx技術解説-セキュリティ編-nap-wafのみ)
   - [NGINX Plus Ansible](#nginx-plus-ansible)
+  - [NGINX Plus Performance](#nginx-plus-performance)
   - [NGINX Plus Kubernets Ingress Controller](#nginx-plus-kubernets-ingress-controller)
   - [NGINX Plus Service Mesh](#nginx-plus-service-mesh)
   - [NGINX Kubernetes Observability](#nginx-kubernetes-observability)
