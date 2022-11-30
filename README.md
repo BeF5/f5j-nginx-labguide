@@ -13,6 +13,7 @@ nginx_lab_guide
   - [NGINX Plus Kubernets Ingress Controller](#nginx-plus-kubernets-ingress-controller)
   - [NGINX Plus Service Mesh](#nginx-plus-service-mesh)
   - [NGINX Kubernetes Observability](#nginx-kubernetes-observability)
+  - [NGINX Kubernetes API Gateway](#nginx-kubernetes-api-gateway)
   - [NGINX Plus Container 基礎](#nginx-plus-container-基礎)
   - [NGINX Plus Container NGINX App Protect](#nginx-plus-container-nginx-app-protect)
   - [NGINX Plus Container NGINX App Protect & AWAF](#nginx-plus-container-nginx-app-protect--awaf)
@@ -97,6 +98,14 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 | - | - | 
 |主な内容|NGINX Plus Ingress Controller + NGINX Service Mesh をデプロイした環境でGrafana、Prometheus、Grafana Loki、Jaegerを使ってステータスを確認する方法のまとめ、HELMの使い方の習得|
 |Guide|https://f5j-nginx-k8s-observability.readthedocs.io/en/latest/index.html|
+|UDF Template| NGINX: Kubernetes_Lab_JP |
+
+## NGINX Kubernetes API Gateway 
+
+|項目||
+| - | - | 
+|主な内容|NIC/NSMを使って、Kubernetes環境におけるAPI Gatewayのユースケースに対応する方法。設定サンプルと動作確認。|
+|Guide|https://f5j-nginx-k8s-apigw.readthedocs.io/|
 |UDF Template| NGINX: Kubernetes_Lab_JP |
 
 ## NGINX Plus Container 基礎
