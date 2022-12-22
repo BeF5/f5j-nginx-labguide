@@ -58,6 +58,14 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 |UDF Template| PartnerTraining_2021_BASIC_JP  |
 - 今後 NAP DoS追加します
 
+## NGINX Instance Manager 
+
+|項目||
+| - | - | 
+|主な内容|NGINX Instance Manager の各種インストール方法や、基本的な機能の解説 |
+|Guide| https://f5j-nginx-nim.readthedocs.io/en/latest/ |
+|UDF Template| NGINX: Kubernetes_Lab_JP |
+
 ## NGINX Plus Ansible
  
 |項目||
