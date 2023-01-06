@@ -38,7 +38,7 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 | - | - | 
 |主な内容|NGINX Plus基本動作、listen / server_name directive、Proxy、LB、TLS|
 |Guide| https://f5j-nginx-plus-lab1.readthedocs.io/en/latest/index.html |
-|UDF Template| PartnerTraining_2021_BASIC_JP  |
+|UDF Template| NGINX: Basic_Lab_JP  |
 
 ## NGINX技術解説 応用編
 
@@ -46,7 +46,7 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 | - | - | 
 |主な内容|NGINX Plusによる 流量制限、認証、LB、冗長構成、ステータス同期|
 |Guide| https://f5j-nginx-plus-lab2.readthedocs.io/en/latest/index.html |
-|UDF Template| PartnerTraining_2021_BASIC_JP  |
+|UDF Template| NGINX: Basic_Lab_JP  |
 
 
 ## これから始めるNGINX技術解説 セキュリティ編 `NAP WAFのみ`
@@ -55,7 +55,7 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 | - | - | 
 |主な内容|NGINX App Protect WAF |
 |Guide| https://f5j-nginx-plus-lab2-security.readthedocs.io/en/latest/ |
-|UDF Template| PartnerTraining_2021_BASIC_JP  |
+|UDF Template| NGINX: Basic_Lab_JP  |
 - 今後 NAP DoS追加します
 
 ## NGINX Instance Manager 
@@ -72,7 +72,7 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 | - | - | 
 |主な内容|Ansibleを利用してNGINX Plus/NAP WAF/NAP Dosのインストール・アンインストール、インストール時の設定追加|
 |Guide| https://f5j-nginx-ansible.readthedocs.io/ |
-|UDF Template| PartnerTraining_2021_BASIC_JP  |
+|UDF Template| NGINX: Basic_Lab_JP  |
 
 ## NGINX Plus Performance
  
