@@ -49,14 +49,13 @@ https://f5j-nginx-plus-trial.readthedocs.io/en/latest/
 |UDF Template| NGINX: Basic_Lab_JP  |
 
 
-## これから始めるNGINX技術解説 セキュリティ編 `NAP WAFのみ`
+## これから始めるNGINX技術解説 セキュリティ編 
 
 |項目||
 | - | - | 
-|主な内容|NGINX App Protect WAF |
+|主な内容|NGINX App Protect WAF / DoS |
 |Guide| https://f5j-nginx-plus-lab2-security.readthedocs.io/en/latest/ |
 |UDF Template| NGINX: Basic_Lab_JP  |
-- 今後 NAP DoS追加します
 
 ## NGINX Instance Manager 
 
